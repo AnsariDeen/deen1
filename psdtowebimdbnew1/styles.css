@@ -1,0 +1,3647 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1349px;
+	 height: 4770px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1349px;
+	 height: 4770px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: -255px; 
+	 position: absolute; 
+	 width: 1362px;
+	 height: 5025px;
+	 z-index:2;
+} 
+
+ #Layer0 
+{ 
+	 left: 170px; 
+	 top: 3644px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 404px;
+	 z-index:3;
+} 
+
+ #Layer1_0 
+{ 
+	 left: 445px; 
+	 top: 3721px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:4;
+} 
+
+ #Layer7 
+{ 
+	 left: 204px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:5;
+} 
+
+ #Layer3 
+{ 
+	 left: 698px; 
+	 top: 3721px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:6;
+} 
+
+ #Layer4 
+{ 
+	 left: 191px; 
+	 top: 3721px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:7;
+} 
+
+ #Layer5 
+{ 
+	 left: 319px; 
+	 top: 3721px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:8;
+} 
+
+ #Layer6 
+{ 
+	 left: 572px; 
+	 top: 3721px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:9;
+} 
+
+ #Layer8 
+{ 
+	 left: 230px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:10;
+} 
+
+ #Layer8copy 
+{ 
+	 left: 359px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:11;
+} 
+
+ #Layer8copy2 
+{ 
+	 left: 479px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:12;
+} 
+
+ #Layer8copy3 
+{ 
+	 left: 609px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:13;
+} 
+
+ #Layer8copy4 
+{ 
+	 left: 738px; 
+	 top: 3785px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 44px;
+	 z-index:14;
+} 
+
+ #BingeWorthyTVonAmazo 
+{ 
+	 left: 189px; 
+	 top: 3674px; 
+	 position: absolute; 
+	 width: 369px;
+	 height: 24px;
+	 z-index:15;
+} 
+
+ #Theholidaysareagreat 
+{ 
+	 left: 189px; 
+	 top: 3950px; 
+	 position: absolute; 
+	 width: 625px;
+	 height: 28px;
+	 z-index:16;
+} 
+
+ #Suits 
+{ 
+	 left: 216px; 
+	 top: 3899px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 11px;
+	 z-index:17;
+} 
+
+ #Vikings 
+{ 
+	 left: 477px; 
+	 top: 3899px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 13px;
+	 z-index:18;
+} 
+
+ #Justified 
+{ 
+	 left: 603px; 
+	 top: 3899px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 11px;
+	 z-index:19;
+} 
+
+ #TheAmericans 
+{ 
+	 left: 724px; 
+	 top: 3899px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 26px;
+	 z-index:20;
+} 
+
+ #SeemoreTVtitlesonAma 
+{ 
+	 left: 192px; 
+	 top: 4009px; 
+	 position: absolute; 
+	 width: 209px;
+	 height: 11px;
+	 z-index:21;
+} 
+
+ #blakarrowcopy2 
+{ 
+	 left: 404px; 
+	 top: 4007px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:22;
+} 
+
+ #34DowntonAbbey34copy 
+{ 
+	 left: 346px; 
+	 top: 3899px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 28px;
+	 z-index:23;
+} 
+
+ #Layer0_0 
+{ 
+	 left: 170px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 405px;
+	 z-index:24;
+} 
+
+ #Layer1_1 
+{ 
+	 left: 170px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 405px;
+	 z-index:25;
+} 
+
+ #Layer3_0 
+{ 
+	 left: 508px; 
+	 top: 1054px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:26;
+} 
+
+ #Layer4_0 
+{ 
+	 left: 192px; 
+	 top: 1054px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:27;
+} 
+
+ #blakarrowcopy3 
+{ 
+	 left: 490px; 
+	 top: 1356px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:28;
+} 
+
+ #FoodMoviestoGetYouRe 
+{ 
+	 left: 192px; 
+	 top: 1009px; 
+	 position: absolute; 
+	 width: 503px;
+	 height: 23px;
+	 z-index:29;
+} 
+
+ #Holidaydinnersarearo 
+{ 
+	 left: 190px; 
+	 top: 1307px; 
+	 position: absolute; 
+	 width: 612px;
+	 height: 28px;
+	 z-index:30;
+} 
+
+ #Seethefullgalleryato 
+{ 
+	 left: 190px; 
+	 top: 1357px; 
+	 position: absolute; 
+	 width: 298px;
+	 height: 13px;
+	 z-index:31;
+} 
+
+ #blakarrow 
+{ 
+	 left: 489px; 
+	 top: 1356px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:32;
+} 
+
+ #Layer7_0 
+{ 
+	 left: 190px; 
+	 top: 1054px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:33;
+} 
+
+ #Layer6_0 
+{ 
+	 left: 508px; 
+	 top: 1054px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:34;
+} 
+
+ #Layer0_1 
+{ 
+	 left: 170px; 
+	 top: 1387px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 376px;
+	 z-index:35;
+} 
+
+ #Layer1_2 
+{ 
+	 left: 170px; 
+	 top: 1387px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 376px;
+	 z-index:36;
+} 
+
+ #Layer2 
+{ 
+	 left: 617px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:37;
+} 
+
+ #Layer3_1 
+{ 
+	 left: 189px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:38;
+} 
+
+ #Layer4_1 
+{ 
+	 left: 402px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 201px;
+	 z-index:39;
+} 
+
+ #blakarrowcopy4 
+{ 
+	 left: 480px; 
+	 top: 1719px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:40;
+} 
+
+ #Layer6_1 
+{ 
+	 left: 403px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:41;
+} 
+
+ #Layer7_1 
+{ 
+	 left: 189px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:42;
+} 
+
+ #Layer8_0 
+{ 
+	 left: 617px; 
+	 top: 1448px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:43;
+} 
+
+ #FrankensteinThrought 
+{ 
+	 left: 191px; 
+	 top: 1408px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 23px;
+	 z-index:44;
+} 
+
+ #Tocelebratethe85than 
+{ 
+	 left: 192px; 
+	 top: 1667px; 
+	 position: absolute; 
+	 width: 598px;
+	 height: 28px;
+	 z-index:45;
+} 
+
+ #ViewmoreFrankenstein 
+{ 
+	 left: 192px; 
+	 top: 1721px; 
+	 position: absolute; 
+	 width: 287px;
+	 height: 13px;
+	 z-index:46;
+} 
+
+ #Layer0_2 
+{ 
+	 left: 170px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 410px;
+	 z-index:47;
+} 
+
+ #MoviePreviewDearZind 
+{ 
+	 left: 191px; 
+	 top: 2001px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 26px;
+	 z-index:48;
+} 
+
+ #blakarrowcopy5 
+{ 
+	 left: 339px; 
+	 top: 2126px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:49;
+} 
+
+ #FantasticBeastsScore 
+{ 
+	 left: 503px; 
+	 top: 2001px; 
+	 position: absolute; 
+	 width: 271px;
+	 height: 28px;
+	 z-index:50;
+} 
+
+ #PollWhosYourFavorite 
+{ 
+	 left: 504px; 
+	 top: 2059px; 
+	 position: absolute; 
+	 width: 239px;
+	 height: 13px;
+	 z-index:51;
+} 
+
+ #SeemoreIndiaTopNews 
+{ 
+	 left: 190px; 
+	 top: 2127px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 13px;
+	 z-index:52;
+} 
+
+ #FiveThingsYouMissedI 
+{ 
+	 left: 191px; 
+	 top: 2059px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 28px;
+	 z-index:53;
+} 
+
+ #Layer1_3 
+{ 
+	 left: 170px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 410px;
+	 z-index:54;
+} 
+
+ #Layer4_2 
+{ 
+	 left: 190px; 
+	 top: 1833px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 150px;
+	 z-index:55;
+} 
+
+ #LatestNews 
+{ 
+	 left: 190px; 
+	 top: 1795px; 
+	 position: absolute; 
+	 width: 560px;
+	 height: 21px;
+	 z-index:56;
+} 
+
+ #Layer3_2 
+{ 
+	 left: 191px; 
+	 top: 1833px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 150px;
+	 z-index:57;
+} 
+
+ #WatchRanveerSinghKat 
+{ 
+	 left: 308px; 
+	 top: 1833px; 
+	 position: absolute; 
+	 width: 393px;
+	 height: 33px;
+	 z-index:58;
+} 
+
+ #14hoursagoBollywoodH 
+{ 
+	 left: 310px; 
+	 top: 1876px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 12px;
+	 z-index:59;
+} 
+
+ #14hoursagoBollyspicy 
+{ 
+	 left: 190px; 
+	 top: 2032px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 12px;
+	 z-index:60;
+} 
+
+ #20November20161138PM 
+{ 
+	 left: 502px; 
+	 top: 2032px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 12px;
+	 z-index:61;
+} 
+
+ #31minutesagoVarietyF 
+{ 
+	 left: 502px; 
+	 top: 2075px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 12px;
+	 z-index:62;
+} 
+
+ #20hoursagoBollyspicy 
+{ 
+	 left: 191px; 
+	 top: 2089px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 12px;
+	 z-index:63;
+} 
+
+ #Itwasoneofthebiggest 
+{ 
+	 left: 309px; 
+	 top: 1906px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 73px;
+	 z-index:64;
+} 
+
+ #Layer2_0 
+{ 
+	 left: 862px; 
+	 top: 126px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 2201px;
+	 z-index:65;
+} 
+
+ #Layer27 
+{ 
+	 left: 246px; 
+	 top: 2618px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:66;
+} 
+
+ #Layer0_3 
+{ 
+	 left: 836px; 
+	 top: 101px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 4277px;
+	 z-index:67;
+} 
+
+ #Layer1_4 
+{ 
+	 left: 857px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 362px;
+	 z-index:68;
+} 
+
+ #Layer2_1 
+{ 
+	 left: 857px; 
+	 top: 495px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 335px;
+	 z-index:69;
+} 
+
+ #Layer3_3 
+{ 
+	 left: 857px; 
+	 top: 495px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 2px;
+	 z-index:70;
+} 
+
+ #Layer3copy 
+{ 
+	 left: 857px; 
+	 top: 851px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 2px;
+	 z-index:71;
+} 
+
+ #Layer4_3 
+{ 
+	 left: 857px; 
+	 top: 850px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 578px;
+	 z-index:72;
+} 
+
+ #Layer5_0 
+{ 
+	 left: 888px; 
+	 top: 150px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 42px;
+	 z-index:73;
+} 
+
+ #Layer5copy 
+{ 
+	 left: 888px; 
+	 top: 206px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 42px;
+	 z-index:74;
+} 
+
+ #Layer5copy2 
+{ 
+	 left: 839px; 
+	 top: 101px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 4277px;
+	 z-index:75;
+} 
+
+ #Layer5copy3 
+{ 
+	 left: 888px; 
+	 top: 324px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 42px;
+	 z-index:76;
+} 
+
+ #Layer5copy4 
+{ 
+	 left: 836px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 375px;
+	 height: 4277px;
+	 z-index:77;
+} 
+
+ #OpeningThisWeek 
+{ 
+	 left: 857px; 
+	 top: 122px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 18px;
+	 z-index:78;
+} 
+
+ #NowPlayingBoxOffice 
+{ 
+	 left: 857px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 18px;
+	 z-index:79;
+} 
+
+ #Moana 
+{ 
+	 left: 891px; 
+	 top: 156px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 10px;
+	 z-index:80;
+} 
+
+ #FantasticBeastsandWh 
+{ 
+	 left: 892px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 10px;
+	 z-index:81;
+} 
+
+ #Weekend744M 
+{ 
+	 left: 891px; 
+	 top: 540px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:82;
+} 
+
+ #Weekend178M 
+{ 
+	 left: 892px; 
+	 top: 602px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:83;
+} 
+
+ #Weekend174M 
+{ 
+	 left: 891px; 
+	 top: 651px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:84;
+} 
+
+ #Weekend121M 
+{ 
+	 left: 892px; 
+	 top: 702px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:85;
+} 
+
+ #Weekend73M 
+{ 
+	 left: 892px; 
+	 top: 749px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 10px;
+	 z-index:86;
+} 
+
+ #Layer14 
+{ 
+	 left: 862px; 
+	 top: 155px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:87;
+} 
+
+ #Layer14copy 
+{ 
+	 left: 862px; 
+	 top: 195px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:88;
+} 
+
+ #Layer14copy2 
+{ 
+	 left: 862px; 
+	 top: 236px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:89;
+} 
+
+ #Layer14copy3 
+{ 
+	 left: 862px; 
+	 top: 316px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:90;
+} 
+
+ #Layer14copy5 
+{ 
+	 left: 862px; 
+	 top: 515px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:91;
+} 
+
+ #Layer14copy7 
+{ 
+	 left: 862px; 
+	 top: 575px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:92;
+} 
+
+ #Layer14copy8 
+{ 
+	 left: 862px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:93;
+} 
+
+ #Layer14copy9 
+{ 
+	 left: 862px; 
+	 top: 676px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:94;
+} 
+
+ #Layer14copy10 
+{ 
+	 left: 862px; 
+	 top: 723px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:95;
+} 
+
+ #Layer14copy11 
+{ 
+	 left: 862px; 
+	 top: 877px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:96;
+} 
+
+ #Layer14copy12 
+{ 
+	 left: 862px; 
+	 top: 921px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:97;
+} 
+
+ #Layer14copy13 
+{ 
+	 left: 862px; 
+	 top: 967px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:98;
+} 
+
+ #Layer14copy14 
+{ 
+	 left: 862px; 
+	 top: 1009px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:99;
+} 
+
+ #Layer14copy6 
+{ 
+	 left: 862px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:100;
+} 
+
+ #Layer14copy4 
+{ 
+	 left: 862px; 
+	 top: 276px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 26px;
+	 z-index:101;
+} 
+
+ #Opens1123 
+{ 
+	 left: 1074px; 
+	 top: 200px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 11px;
+	 z-index:102;
+} 
+
+ #Opens1123_0 
+{ 
+	 left: 1074px; 
+	 top: 280px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 11px;
+	 z-index:103;
+} 
+
+ #Opens1123_1 
+{ 
+	 left: 1074px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 11px;
+	 z-index:104;
+} 
+
+ #DoctorStrange 
+{ 
+	 left: 892px; 
+	 top: 576px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 13px;
+	 z-index:105;
+} 
+
+ #Trolls 
+{ 
+	 left: 892px; 
+	 top: 628px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 10px;
+	 z-index:106;
+} 
+
+ #Arrivals 
+{ 
+	 left: 891px; 
+	 top: 678px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 10px;
+	 z-index:107;
+} 
+
+ #AlmostChristmas 
+{ 
+	 left: 892px; 
+	 top: 726px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 11px;
+	 z-index:108;
+} 
+
+ #Seemoreboxofficeresu 
+{ 
+	 left: 860px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 11px;
+	 z-index:109;
+} 
+
+ #Layer9 
+{ 
+	 left: 888px; 
+	 top: 850px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 279px;
+	 z-index:110;
+} 
+
+ #Layer13 
+{ 
+	 left: 859px; 
+	 top: 1131px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 453px;
+	 z-index:111;
+} 
+
+ #Layer13copy 
+{ 
+	 left: 859px; 
+	 top: 1591px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 453px;
+	 z-index:112;
+} 
+
+ #Seemoreopeningthiswe 
+{ 
+	 left: 857px; 
+	 top: 412px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 13px;
+	 z-index:113;
+} 
+
+ #Layer15 
+{ 
+	 left: 1024px; 
+	 top: 411px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:114;
+} 
+
+ #Layer15copy 
+{ 
+	 left: 1021px; 
+	 top: 790px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:115;
+} 
+
+ #Layer15copy2 
+{ 
+	 left: 997px; 
+	 top: 1070px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:116;
+} 
+
+ #Layer15copy3 
+{ 
+	 left: 1052px; 
+	 top: 2329px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:117;
+} 
+
+ #Layer16 
+{ 
+	 left: 857px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 1px;
+	 z-index:118;
+} 
+
+ #Layer16copy 
+{ 
+	 left: 857px; 
+	 top: 822px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 1px;
+	 z-index:119;
+} 
+
+ #Layer16copy2 
+{ 
+	 left: 857px; 
+	 top: 1102px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 1px;
+	 z-index:120;
+} 
+
+ #Layer16copy3 
+{ 
+	 left: 857px; 
+	 top: 1726px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 1px;
+	 z-index:121;
+} 
+
+ #Layer16copy4 
+{ 
+	 left: 857px; 
+	 top: 1983px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 1px;
+	 z-index:122;
+} 
+
+ #Layer18 
+{ 
+	 left: 853px; 
+	 top: 1776px; 
+	 position: absolute; 
+	 width: 293px;
+	 height: 192px;
+	 z-index:123;
+} 
+
+ #Layer13copy2 
+{ 
+	 left: 859px; 
+	 top: 2041px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 453px;
+	 z-index:124;
+} 
+
+ #Jakie 
+{ 
+	 left: 891px; 
+	 top: 879px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 11px;
+	 z-index:125;
+} 
+
+ #Incarnate 
+{ 
+	 left: 892px; 
+	 top: 921px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:126;
+} 
+
+ #TheEyesofMyMother 
+{ 
+	 left: 891px; 
+	 top: 968px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 13px;
+	 z-index:127;
+} 
+
+ #ThingstoCome 
+{ 
+	 left: 892px; 
+	 top: 1008px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 13px;
+	 z-index:128;
+} 
+
+ #Seemorecomingsoon 
+{ 
+	 left: 861px; 
+	 top: 1071px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 13px;
+	 z-index:129;
+} 
+
+ #BadSanta2 
+{ 
+	 left: 891px; 
+	 top: 198px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 11px;
+	 z-index:130;
+} 
+
+ #Lion 
+{ 
+	 left: 891px; 
+	 top: 237px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 10px;
+	 z-index:131;
+} 
+
+ #Allied 
+{ 
+	 left: 892px; 
+	 top: 278px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 10px;
+	 z-index:132;
+} 
+
+ #RulesDon39tApply 
+{ 
+	 left: 891px; 
+	 top: 319px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 13px;
+	 z-index:133;
+} 
+
+ #MifuneTheLastSamurai 
+{ 
+	 left: 891px; 
+	 top: 359px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 11px;
+	 z-index:134;
+} 
+
+ #ComingSoon 
+{ 
+	 left: 858px; 
+	 top: 845px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 18px;
+	 z-index:135;
+} 
+
+ #FollowUsOnTwitter 
+{ 
+	 left: 859px; 
+	 top: 1122px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 14px;
+	 z-index:136;
+} 
+
+ #Layer17 
+{ 
+	 left: 839px; 
+	 top: 1141px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 585px;
+	 z-index:137;
+} 
+
+ #FindUsOnFacebook 
+{ 
+	 left: 859px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 14px;
+	 z-index:138;
+} 
+
+ #HolidayStreaming 
+{ 
+	 left: 859px; 
+	 top: 2004px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 18px;
+	 z-index:139;
+} 
+
+ #Checkoutstreaminghol 
+{ 
+	 left: 857px; 
+	 top: 2280px; 
+	 position: absolute; 
+	 width: 282px;
+	 height: 28px;
+	 z-index:140;
+} 
+
+ #VisittheHolidayStrea 
+{ 
+	 left: 857px; 
+	 top: 2330px; 
+	 position: absolute; 
+	 width: 192px;
+	 height: 12px;
+	 z-index:141;
+} 
+
+ #Layer19 
+{ 
+	 left: 858px; 
+	 top: 2038px; 
+	 position: absolute; 
+	 width: 298px;
+	 height: 224px;
+	 z-index:142;
+} 
+
+ #Limited 
+{ 
+	 left: 1102px; 
+	 top: 968px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 8px;
+	 z-index:143;
+} 
+
+ #Limited_0 
+{ 
+	 left: 1101px; 
+	 top: 1009px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 8px;
+	 z-index:144;
+} 
+
+ #Layer0_4 
+{ 
+	 left: 169px; 
+	 top: 4048px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 331px;
+	 z-index:145;
+} 
+
+ #Layer23copy9 
+{ 
+	 left: 169px; 
+	 top: 4051px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 385px;
+	 z-index:146;
+} 
+
+ #Layer2_2 
+{ 
+	 left: 699px; 
+	 top: 4113px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 185px;
+	 z-index:147;
+} 
+
+ #Layer3_4 
+{ 
+	 left: 570px; 
+	 top: 4113px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 185px;
+	 z-index:148;
+} 
+
+ #Layer4_4 
+{ 
+	 left: 439px; 
+	 top: 4113px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 185px;
+	 z-index:149;
+} 
+
+ #Layer5_1 
+{ 
+	 left: 307px; 
+	 top: 4112px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 185px;
+	 z-index:150;
+} 
+
+ #Layer6_2 
+{ 
+	 left: 187px; 
+	 top: 4109px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 186px;
+	 z-index:151;
+} 
+
+ #Whichofthese3980stee 
+{ 
+	 left: 191px; 
+	 top: 4300px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 13px;
+	 z-index:152;
+} 
+
+ #blakarrowcopy12 
+{ 
+	 left: 253px; 
+	 top: 4344px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:153;
+} 
+
+ #Layer36 
+{ 
+	 left: 192px; 
+	 top: 4110px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 170px;
+	 z-index:154;
+} 
+
+ #Layer37 
+{ 
+	 left: 320px; 
+	 top: 4110px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 170px;
+	 z-index:155;
+} 
+
+ #Layer38 
+{ 
+	 left: 451px; 
+	 top: 4110px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 170px;
+	 z-index:156;
+} 
+
+ #Layer39 
+{ 
+	 left: 578px; 
+	 top: 4110px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 170px;
+	 z-index:157;
+} 
+
+ #Layer40 
+{ 
+	 left: 705px; 
+	 top: 4110px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 170px;
+	 z-index:158;
+} 
+
+ #Votenow 
+{ 
+	 left: 191px; 
+	 top: 4345px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 11px;
+	 z-index:159;
+} 
+
+ #PollTheBest3980sTeen 
+{ 
+	 left: 189px; 
+	 top: 4077px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 22px;
+	 z-index:160;
+} 
+
+ #blakarrowcopy9 
+{ 
+	 left: 386px; 
+	 top: 3206px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:161;
+} 
+
+ #Layer4_5 
+{ 
+	 left: 170px; 
+	 top: 3237px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 406px;
+	 z-index:162;
+} 
+
+ #Layer5_2 
+{ 
+	 left: 511px; 
+	 top: 3322px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:163;
+} 
+
+ #CriticallyAcclaimedT 
+{ 
+	 left: 192px; 
+	 top: 3268px; 
+	 position: absolute; 
+	 width: 487px;
+	 height: 24px;
+	 z-index:164;
+} 
+
+ #Sometimesthebesttele 
+{ 
+	 left: 192px; 
+	 top: 3568px; 
+	 position: absolute; 
+	 width: 603px;
+	 height: 28px;
+	 z-index:165;
+} 
+
+ #Seethelist 
+{ 
+	 left: 192px; 
+	 top: 3610px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 11px;
+	 z-index:166;
+} 
+
+ #Layer6_3 
+{ 
+	 left: 190px; 
+	 top: 3322px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:167;
+} 
+
+ #Layer0_5 
+{ 
+	 left: 170px; 
+	 top: 2504px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 349px;
+	 z-index:168;
+} 
+
+ #Layer2_3 
+{ 
+	 left: 443px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:169;
+} 
+
+ #Layer3_5 
+{ 
+	 left: 190px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:170;
+} 
+
+ #Layer4_6 
+{ 
+	 left: 307px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:171;
+} 
+
+ #BornToday 
+{ 
+	 left: 189px; 
+	 top: 2531px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 24px;
+	 z-index:172;
+} 
+
+ #Seeallbirthdays 
+{ 
+	 left: 193px; 
+	 top: 2807px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 13px;
+	 z-index:173;
+} 
+
+ #SidseBabettKnudsen48 
+{ 
+	 left: 721px; 
+	 top: 2750px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 28px;
+	 z-index:174;
+} 
+
+ #RobertVaughn19322016 
+{ 
+	 left: 329px; 
+	 top: 2749px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 28px;
+	 z-index:175;
+} 
+
+ #AldenEhrenreich27 
+{ 
+	 left: 450px; 
+	 top: 2749px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 28px;
+	 z-index:176;
+} 
+
+ #MadsMikkelsen51 
+{ 
+	 left: 585px; 
+	 top: 2751px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 28px;
+	 z-index:177;
+} 
+
+ #ScarlettJohansson32 
+{ 
+	 left: 215px; 
+	 top: 2747px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 44px;
+	 z-index:178;
+} 
+
+ #Layer5_3 
+{ 
+	 left: 572px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:179;
+} 
+
+ #blakarrowcopy8 
+{ 
+	 left: 253px; 
+	 top: 3941px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:180;
+} 
+
+ #blakarrowcopy11 
+{ 
+	 left: 289px; 
+	 top: 2806px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:181;
+} 
+
+ #Layer6_4 
+{ 
+	 left: 703px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:182;
+} 
+
+ #Layer28 
+{ 
+	 left: 190px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:183;
+} 
+
+ #Layer31 
+{ 
+	 left: 572px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:184;
+} 
+
+ #Layer32 
+{ 
+	 left: 703px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:185;
+} 
+
+ #Layer29 
+{ 
+	 left: 316px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:186;
+} 
+
+ #Layer30 
+{ 
+	 left: 443px; 
+	 top: 2574px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 172px;
+	 z-index:187;
+} 
+
+ #blakarrowcopy7 
+{ 
+	 left: 258px; 
+	 top: 3600px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:188;
+} 
+
+ #Layer0_6 
+{ 
+	 left: 170px; 
+	 top: 2854px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 382px;
+	 z-index:189;
+} 
+
+ #Layer2_4 
+{ 
+	 left: 511px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:190;
+} 
+
+ #IMDb39sFallWinterMov 
+{ 
+	 left: 190px; 
+	 top: 2884px; 
+	 position: absolute; 
+	 width: 331px;
+	 height: 23px;
+	 z-index:191;
+} 
+
+ #Getreleasedatesandwa 
+{ 
+	 left: 189px; 
+	 top: 2931px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 13px;
+	 z-index:192;
+} 
+
+ #SeeourFallWinterMovi 
+{ 
+	 left: 192px; 
+	 top: 3204px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 12px;
+	 z-index:193;
+} 
+
+ #blakarrowcopy10 
+{ 
+	 left: 378px; 
+	 top: 3203px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:194;
+} 
+
+ #Layer3_6 
+{ 
+	 left: 190px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:195;
+} 
+
+ #Layer33 
+{ 
+	 left: 511px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:196;
+} 
+
+ #Layer34 
+{ 
+	 left: 190px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:197;
+} 
+
+ #Layer35 
+{ 
+	 left: 189px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:198;
+} 
+
+ #blakarrowcopy6 
+{ 
+	 left: 256px; 
+	 top: 3606px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:199;
+} 
+
+ #Layer0_7 
+{ 
+	 left: 170px; 
+	 top: 2175px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 328px;
+	 z-index:200;
+} 
+
+ #IMDbSnapshot 
+{ 
+	 left: 194px; 
+	 top: 2204px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 24px;
+	 z-index:201;
+} 
+
+ #Layer1_5 
+{ 
+	 left: 618px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:202;
+} 
+
+ #Layer2_5 
+{ 
+	 left: 190px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:203;
+} 
+
+ #Layer3_7 
+{ 
+	 left: 405px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:204;
+} 
+
+ #AmericanMusicAwards 
+{ 
+	 left: 221px; 
+	 top: 2450px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 11px;
+	 z-index:205;
+} 
+
+ #34GilmoreGirlsAYeari 
+{ 
+	 left: 641px; 
+	 top: 2450px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 26px;
+	 z-index:206;
+} 
+
+ #JackieExclusivePhoto 
+{ 
+	 left: 431px; 
+	 top: 2450px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 11px;
+	 z-index:207;
+} 
+
+ #Layer0_8 
+{ 
+	 left: 170px; 
+	 top: 453px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 526px;
+	 z-index:208;
+} 
+
+ #Layer2_6 
+{ 
+	 left: 192px; 
+	 top: 509px; 
+	 position: absolute; 
+	 width: 624px;
+	 height: 351px;
+	 z-index:209;
+} 
+
+ #PresentedbyIntelGeta 
+{ 
+	 left: 192px; 
+	 top: 879px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 28px;
+	 z-index:210;
+} 
+
+ #GoBehindtheCurtainWi 
+{ 
+	 left: 194px; 
+	 top: 937px; 
+	 position: absolute; 
+	 width: 288px;
+	 height: 13px;
+	 z-index:211;
+} 
+
+ #blakarrow_0 
+{ 
+	 left: 483px; 
+	 top: 936px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 15px;
+	 z-index:212;
+} 
+
+ #TOM 
+{ 
+	 left: 512px; 
+	 top: 3322px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:213;
+} 
+
+ #STATHAM 
+{ 
+	 left: 191px; 
+	 top: 3322px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 230px;
+	 z-index:214;
+} 
+
+ #BehindtheCurtainWith 
+{ 
+	 left: 193px; 
+	 top: 472px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 23px;
+	 z-index:215;
+} 
+
+ #Layer3_8 
+{ 
+	 left: 192px; 
+	 top: 509px; 
+	 position: absolute; 
+	 width: 624px;
+	 height: 351px;
+	 z-index:216;
+} 
+
+ #Layer0_9 
+{ 
+	 left: 170px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 100px;
+	 z-index:217;
+} 
+
+ #Layer1_6 
+{ 
+	 left: 170px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 100px;
+	 z-index:218;
+} 
+
+ #Layer2_7 
+{ 
+	 left: 170px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 17px;
+	 z-index:219;
+} 
+
+ #Layer16copy_0 
+{ 
+	 left: 994px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:220;
+} 
+
+ #IMdbicohead 
+{ 
+	 left: 191px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 55px;
+	 z-index:221;
+} 
+
+ #Layer4_7 
+{ 
+	 left: 191px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 1366px;
+	 height: 768px;
+	 z-index:222;
+} 
+
+ #Layer5_4 
+{ 
+	 left: 324px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 465px;
+	 height: 23px;
+	 z-index:223;
+} 
+
+ #Layer5copy_0 
+{ 
+	 left: 44px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 465px;
+	 height: 23px;
+	 z-index:224;
+} 
+
+ #Layer9_0 
+{ 
+	 left: 788px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:225;
+} 
+
+ #Layer9copy 
+{ 
+	 left: 788px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:226;
+} 
+
+ #Layer9copy2 
+{ 
+	 left: 872px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:227;
+} 
+
+ #Layer9copy3 
+{ 
+	 left: 872px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:228;
+} 
+
+ #Layer9copy4 
+{ 
+	 left: 325px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:229;
+} 
+
+ #Layer9copy5 
+{ 
+	 left: 325px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:230;
+} 
+
+ #Layer9copy6 
+{ 
+	 left: 605px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:231;
+} 
+
+ #Layer9copy7 
+{ 
+	 left: 605px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:232;
+} 
+
+ #Layer9copy8 
+{ 
+	 left: 739px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:233;
+} 
+
+ #Layer9copy9 
+{ 
+	 left: 739px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:234;
+} 
+
+ #Layer9copy10 
+{ 
+	 left: 464px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:235;
+} 
+
+ #Layer9copy11 
+{ 
+	 left: 464px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:236;
+} 
+
+ #Layer9copy12 
+{ 
+	 left: 1044px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:237;
+} 
+
+ #Layer9copy14 
+{ 
+	 left: 1015px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 21px;
+	 z-index:238;
+} 
+
+ #Layer9copy15 
+{ 
+	 left: 1044px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 23px;
+	 z-index:239;
+} 
+
+ #Layer8_1 
+{ 
+	 left: 325px; 
+	 top: 21px; 
+	 position: absolute; 
+	 width: 471px;
+	 height: 32px;
+	 z-index:240;
+} 
+
+ #Layer7_2 
+{ 
+	 left: 864px; 
+	 top: 21px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 29px;
+	 z-index:241;
+} 
+
+ #Layer6_5 
+{ 
+	 left: 328px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 539px;
+	 height: 38px;
+	 z-index:242;
+} 
+
+ #FindMoviesTVshowsCel 
+{ 
+	 left: 340px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 13px;
+	 z-index:243;
+} 
+
+ #All 
+{ 
+	 left: 774px; 
+	 top: 29px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 10px;
+	 z-index:244;
+} 
+
+ #Layer10 
+{ 
+	 left: 1087px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:245;
+} 
+
+ #Layer11 
+{ 
+	 left: 1114px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:246;
+} 
+
+ #Layer12 
+{ 
+	 left: 1141px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:247;
+} 
+
+ #Layer13_0 
+{ 
+	 left: 1145px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:248;
+} 
+
+ #Layer15_0 
+{ 
+	 left: 933px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 14px;
+	 z-index:249;
+} 
+
+ #Layer16_0 
+{ 
+	 left: 994px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:250;
+} 
+
+ #Layer17_0 
+{ 
+	 left: 853px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:251;
+} 
+
+ #Layer19_0 
+{ 
+	 left: 1071px; 
+	 top: 24px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 31px;
+	 z-index:252;
+} 
+
+ #Home 
+{ 
+	 left: 1026px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 9px;
+	 z-index:253;
+} 
+
+ #OtherSigninoption 
+{ 
+	 left: 1049px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 12px;
+	 z-index:254;
+} 
+
+ #RoundedRectangle2 
+{ 
+	 left: 895px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 19px;
+	 z-index:255;
+} 
+
+ #SigninwithFacebook 
+{ 
+	 left: 923px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 12px;
+	 z-index:256;
+} 
+
+ #f 
+{ 
+	 left: 909px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 12px;
+	 z-index:257;
+} 
+
+ #MoviesTVShowtimes 
+{ 
+	 left: 339px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 26px;
+	 z-index:258;
+} 
+
+ #CelebsEventsPhotos 
+{ 
+	 left: 479px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 26px;
+	 z-index:259;
+} 
+
+ #NewsCommunity 
+{ 
+	 left: 619px; 
+	 top: 59px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 28px;
+	 z-index:260;
+} 
+
+ #Watchlist 
+{ 
+	 left: 762px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 11px;
+	 z-index:261;
+} 
+
+ #Layer18_0 
+{ 
+	 left: 723px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:262;
+} 
+
+ #Layer18copy 
+{ 
+	 left: 853px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:263;
+} 
+
+ #Layer18copy2 
+{ 
+	 left: 586px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:264;
+} 
+
+ #Layer18copy3 
+{ 
+	 left: 446px; 
+	 top: 70px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 4px;
+	 z-index:265;
+} 
+
+ #Layer0_10 
+{ 
+	 left: 170px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 360px;
+	 z-index:266;
+} 
+
+ #Layer1_7 
+{ 
+	 left: 170px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 667px;
+	 height: 360px;
+	 z-index:267;
+} 
+
+ #Layer3_9 
+{ 
+	 left: 191px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:268;
+} 
+
+ #Layer8_2 
+{ 
+	 left: 191px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:269;
+} 
+
+ #Layer9_1 
+{ 
+	 left: 404px; 
+	 top: 120px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:270;
+} 
+
+ #Layer4_8 
+{ 
+	 left: 403px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:271;
+} 
+
+ #Layer5_5 
+{ 
+	 left: 618px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:272;
+} 
+
+ #Layer10_0 
+{ 
+	 left: 618px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:273;
+} 
+
+ #Layer11_0 
+{ 
+	 left: 404px; 
+	 top: 120px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 298px;
+	 z-index:274;
+} 
+
+ #Layer7_3 
+{ 
+	 left: 191px; 
+	 top: 356px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 63px;
+	 z-index:275;
+} 
+
+ #Layer7copy 
+{ 
+	 left: 404px; 
+	 top: 355px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 63px;
+	 z-index:276;
+} 
+
+ #Layer7copy2 
+{ 
+	 left: 618px; 
+	 top: 355px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 63px;
+	 z-index:277;
+} 
+
+ #34GilmoreGirlsAYeari_0 
+{ 
+	 left: 194px; 
+	 top: 367px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 25px;
+	 z-index:278;
+} 
+
+ #RogueOneAStarWarsSto 
+{ 
+	 left: 409px; 
+	 top: 367px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 28px;
+	 z-index:279;
+} 
+
+ #SmurfsTheLostVillage 
+{ 
+	 left: 621px; 
+	 top: 375px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 12px;
+	 z-index:280;
+} 
+
+ #BrowseforMoreTrailer 
+{ 
+	 left: 192px; 
+	 top: 432px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 10px;
+	 z-index:281;
+} 
+
+ #arrowgray 
+{ 
+	 left: 336px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 14px;
+	 z-index:282;
+} 
+
+ #ExtendedTVSpot 
+{ 
+	 left: 411px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 11px;
+	 z-index:283;
+} 
+
+ #Trailer2 
+{ 
+	 left: 195px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 9px;
+	 z-index:284;
+} 
+
+ #Trailer2_0 
+{ 
+	 left: 622px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 9px;
+	 z-index:285;
+} 
+
+ #Layer6_6 
+{ 
+	 left: 269px; 
+	 top: 246px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 48px;
+	 z-index:286;
+} 
+
+ #Layer6copy 
+{ 
+	 left: 489px; 
+	 top: 246px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 48px;
+	 z-index:287;
+} 
+
+ #Layer6copy2 
+{ 
+	 left: 699px; 
+	 top: 246px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 48px;
+	 z-index:288;
+} 
+
+ #Layer0_11 
+{ 
+	 left: 170px; 
+	 top: 4376px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 360px;
+	 z-index:289;
+} 
+
+ #Layer1_8 
+{ 
+	 left: 190px; 
+	 top: 4376px; 
+	 position: absolute; 
+	 width: 970px;
+	 height: 213px;
+	 z-index:290;
+} 
+
+ #Layer2_8 
+{ 
+	 left: 189px; 
+	 top: 4392px; 
+	 position: absolute; 
+	 width: 386px;
+	 height: 182px;
+	 z-index:291;
+} 
+
+ #Findshowtimeswatchtr 
+{ 
+	 left: 191px; 
+	 top: 4483px; 
+	 position: absolute; 
+	 width: 330px;
+	 height: 41px;
+	 z-index:292;
+} 
+
+ #Layer3_10 
+{ 
+	 left: 588px; 
+	 top: 4392px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 182px;
+	 z-index:293;
+} 
+
+ #Layer4_9 
+{ 
+	 left: 747px; 
+	 top: 4392px; 
+	 position: absolute; 
+	 width: 396px;
+	 height: 182px;
+	 z-index:294;
+} 
+
+ #Layer5_6 
+{ 
+	 left: 189px; 
+	 top: 4548px; 
+	 position: absolute; 
+	 width: 386px;
+	 height: 41px;
+	 z-index:295;
+} 
+
+ #IMDbEverywhere 
+{ 
+	 left: 194px; 
+	 top: 4407px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 18px;
+	 z-index:296;
+} 
+
+ #Layer14_0 
+{ 
+	 left: 332px; 
+	 top: 4432px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 39px;
+	 z-index:297;
+} 
+
+ #Layer15_1 
+{ 
+	 left: 453px; 
+	 top: 4432px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 39px;
+	 z-index:298;
+} 
+
+ #IMDbMobilesite 
+{ 
+	 left: 191px; 
+	 top: 4562px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 12px;
+	 z-index:299;
+} 
+
+ #Layer23 
+{ 
+	 left: 191px; 
+	 top: 4432px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 39px;
+	 z-index:300;
+} 
+
+ #FollowIMDbon 
+{ 
+	 left: 597px; 
+	 top: 4407px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 15px;
+	 z-index:301;
+} 
+
+ #Layer25 
+{ 
+	 left: 548px; 
+	 top: 4559px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 25px;
+	 z-index:302;
+} 
+
+ #Layer8_3 
+{ 
+	 left: 602px; 
+	 top: 4428px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 37px;
+	 z-index:303;
+} 
+
+ #Layer9_2 
+{ 
+	 left: 644px; 
+	 top: 4427px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 37px;
+	 z-index:304;
+} 
+
+ #Layer10_1 
+{ 
+	 left: 687px; 
+	 top: 4428px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 37px;
+	 z-index:305;
+} 
+
+ #Layer11_1 
+{ 
+	 left: 695px; 
+	 top: 4436px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 21px;
+	 z-index:306;
+} 
+
+ #Layer6_7 
+{ 
+	 left: 747px; 
+	 top: 4392px; 
+	 position: absolute; 
+	 width: 397px;
+	 height: 170px;
+	 z-index:307;
+} 
+
+ #Home_0 
+{ 
+	 left: 751px; 
+	 top: 4407px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 10px;
+	 z-index:308;
+} 
+
+ #ContactUs 
+{ 
+	 left: 871px; 
+	 top: 4407px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 10px;
+	 z-index:309;
+} 
+
+ #IMDbpro 
+{ 
+	 left: 997px; 
+	 top: 4407px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 12px;
+	 z-index:310;
+} 
+
+ #BoxOfficemojo 
+{ 
+	 left: 997px; 
+	 top: 4425px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 12px;
+	 z-index:311;
+} 
+
+ #Withoutabox 
+{ 
+	 left: 996px; 
+	 top: 4442px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 10px;
+	 z-index:312;
+} 
+
+ #ConditionsofUse 
+{ 
+	 left: 997px; 
+	 top: 4474px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 10px;
+	 z-index:313;
+} 
+
+ #PrivacyPolicy 
+{ 
+	 left: 997px; 
+	 top: 4494px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 12px;
+	 z-index:314;
+} 
+
+ #InterestBasedAds 
+{ 
+	 left: 997px; 
+	 top: 4516px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 10px;
+	 z-index:315;
+} 
+
+ #MessageBoards 
+{ 
+	 left: 871px; 
+	 top: 4424px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 12px;
+	 z-index:316;
+} 
+
+ #Register 
+{ 
+	 left: 871px; 
+	 top: 4442px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 12px;
+	 z-index:317;
+} 
+
+ #PressRoom 
+{ 
+	 left: 871px; 
+	 top: 4496px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:318;
+} 
+
+ #Advertising 
+{ 
+	 left: 870px; 
+	 top: 4516px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 12px;
+	 z-index:319;
+} 
+
+ #Jobs 
+{ 
+	 left: 870px; 
+	 top: 4537px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 10px;
+	 z-index:320;
+} 
+
+ #News 
+{ 
+	 left: 871px; 
+	 top: 4459px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 10px;
+	 z-index:321;
+} 
+
+ #layer_322 
+{ 
+	 left: 871px; 
+	 top: 4480px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 2px;
+	 z-index:322;
+} 
+
+ #layer_323 
+{ 
+	 left: 997px; 
+	 top: 4542px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 2px;
+	 z-index:323;
+} 
+
+ #layer_324 
+{ 
+	 left: 998px; 
+	 top: 4463px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 2px;
+	 z-index:324;
+} 
+
+ #TopRatedMovies 
+{ 
+	 left: 750px; 
+	 top: 4424px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 12px;
+	 z-index:325;
+} 
+
+ #BoxOffice 
+{ 
+	 left: 751px; 
+	 top: 4442px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:326;
+} 
+
+ #TV 
+{ 
+	 left: 750px; 
+	 top: 4460px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 10px;
+	 z-index:327;
+} 
+
+ #ComingSoon_0 
+{ 
+	 left: 751px; 
+	 top: 4476px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 12px;
+	 z-index:328;
+} 
+
+ #SiteIndex 
+{ 
+	 left: 751px; 
+	 top: 4496px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:329;
+} 
+
+ #Search 
+{ 
+	 left: 751px; 
+	 top: 4516px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 10px;
+	 z-index:330;
+} 
+
+ #InTheaters 
+{ 
+	 left: 751px; 
+	 top: 4537px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:331;
+} 
+
+ #Layer16_1 
+{ 
+	 left: 188px; 
+	 top: 4611px; 
+	 position: absolute; 
+	 width: 970px;
+	 height: 101px;
+	 z-index:332;
+} 
+
+ #Layer18_1 
+{ 
+	 left: 210px; 
+	 top: 4596px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 16px;
+	 z-index:333;
+} 
+
+ #AnComp 
+{ 
+	 left: 192px; 
+	 top: 4597px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 12px;
+	 z-index:334;
+} 
+
+ #Copyright19902016IMD 
+{ 
+	 left: 904px; 
+	 top: 4597px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 12px;
+	 z-index:335;
+} 
+
+ #AmazonAffiliates 
+{ 
+	 left: 192px; 
+	 top: 4628px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 10px;
+	 z-index:336;
+} 
+
+ #WatchMoviesTVOnline 
+{ 
+	 left: 191px; 
+	 top: 4659px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 20px;
+	 z-index:337;
+} 
+
+ #UnlimitedStreamingof 
+{ 
+	 left: 298px; 
+	 top: 4659px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 20px;
+	 z-index:338;
+} 
+
+ #BuyMoviesonDVDBluray 
+{ 
+	 left: 425px; 
+	 top: 4660px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 21px;
+	 z-index:339;
+} 
+
+ #BuyMoviesonDVDBluray_0 
+{ 
+	 left: 543px; 
+	 top: 4660px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 21px;
+	 z-index:340;
+} 
+
+ #BuyMoviesonDVDBluray_1 
+{ 
+	 left: 674px; 
+	 top: 4660px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 21px;
+	 z-index:341;
+} 
+
+ #BuyMovieandTVShowDVD 
+{ 
+	 left: 801px; 
+	 top: 4659px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 20px;
+	 z-index:342;
+} 
+
+ #DigitalPhotography 
+{ 
+	 left: 925px; 
+	 top: 4659px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 22px;
+	 z-index:343;
+} 
+
+ #DownloadAudioBooks 
+{ 
+	 left: 1044px; 
+	 top: 4659px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 20px;
+	 z-index:344;
+} 
+
+ #AmazonVideo 
+{ 
+	 left: 192px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 10px;
+	 z-index:345;
+} 
+
+ #PrimeVedio 
+{ 
+	 left: 297px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 10px;
+	 z-index:346;
+} 
+
+ #AmazonGermany 
+{ 
+	 left: 426px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 12px;
+	 z-index:347;
+} 
+
+ #AmazonItaly 
+{ 
+	 left: 544px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 12px;
+	 z-index:348;
+} 
+
+ #AmazonFrance 
+{ 
+	 left: 675px; 
+	 top: 4644px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 9px;
+	 z-index:349;
+} 
+
+ #AmazonIndia 
+{ 
+	 left: 803px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 10px;
+	 z-index:350;
+} 
+
+ #DPReview 
+{ 
+	 left: 925px; 
+	 top: 4644px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 9px;
+	 z-index:351;
+} 
+
+ #Audible 
+{ 
+	 left: 1044px; 
+	 top: 4643px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 10px;
+	 z-index:352;
+} 
+
+ #Layer26 
+{ 
+	 left: 140px; 
+	 top: 4589px; 
+	 position: absolute; 
+	 width: 1051px;
+	 height: 379px;
+	 z-index:353;
+} 
+
+ #Layer26copy 
+{ 
+	 left: 140px; 
+	 top: 4388px; 
+	 position: absolute; 
+	 width: 1051px;
+	 height: 379px;
+	 z-index:354;
+} 
+
+ #Layer26copy2 
+{ 
+	 left: 155px; 
+	 top: 4550px; 
+	 position: absolute; 
+	 width: 438px;
+	 height: 379px;
+	 z-index:355;
+} 
+
+ #Layer27PIC 
+{ 
+	 left: 618px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:356;
+} 
+
+ #Layer28PIC 
+{ 
+	 left: 405px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:357;
+} 
+
+ #Layer29PIC 
+{ 
+	 left: 190px; 
+	 top: 2242px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 201px;
+	 z-index:358;
+} 
+
+ #Layer23copy4 
+{ 
+	 left: 352px; 
+	 top: 4388px; 
+	 position: absolute; 
+	 width: 383px;
+	 height: 201px;
+	 z-index:359;
+} 
+
+ #Layer23copy6 
+{ 
+	 left: 587px; 
+	 top: 4388px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 201px;
+	 z-index:360;
+} 
+
+ #Layer23copy5 
+{ 
+	 left: 172px; 
+	 top: 4546px; 
+	 position: absolute; 
+	 width: 416px;
+	 height: 385px;
+	 z-index:361;
+} 
+
+ #Layer23copy7 
+{ 
+	 left: 169px; 
+	 top: 4584px; 
+	 position: absolute; 
+	 width: 1010px;
+	 height: 389px;
+	 z-index:362;
+} 
+
+ #Layer23copy8 
+{ 
+	 left: 453px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 386px;
+	 height: 4290px;
+	 z-index:363;
+} 
